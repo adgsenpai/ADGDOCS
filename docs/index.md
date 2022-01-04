@@ -1,6 +1,3 @@
-# ADGDOCS
-creates a web app using markdown files
-
 ## Installation
 fetch the repo using the command
 
