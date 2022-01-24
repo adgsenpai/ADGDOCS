@@ -27,9 +27,9 @@ Also enable GitHub Pages to `gh-pages` branch for you to host the website.
 ![image](https://user-images.githubusercontent.com/45560312/150775748-a4c29f12-6b87-4b58-8622-39370fd39732.png)
 
 
-# Configuration
+## Configuration
 
-## Changing Metadata
+### Changing Metadata
 
 in `mkdocs.yml`
 
@@ -44,7 +44,7 @@ repo_name: ADGSTUDIOS/ADGDOCS
 
 you can change all values with appropriate values
 
-## NAV Bar
+### NAV Bar
 
 in `mkdocs.yml`
 
@@ -56,7 +56,7 @@ nav:
 
 work with the syntax here to add more pages and markup files
 
-## Social Media 
+### Social Media 
 in `mkdocs.yml`
 
 ```
@@ -71,7 +71,7 @@ for icons look up into `fontawesome` docs
 
 change the links to your social media links
 
-## Adding files
+### Adding files
 add your markdown files in `/docs/`
 
 for example adding `file2.md` and `file3.md`
@@ -84,7 +84,7 @@ for example adding `file2.md` and `file3.md`
         -file3.md
 ```
 
-## Changing icons
+### Changing icons
 in `mkdocs.yml`
 under `themes`
 
@@ -97,7 +97,7 @@ to change the icons/favicon change the paths down below
 
 
 
-# Deployment
+### Deployment
 
 To run the web app you can run this command
 
@@ -105,7 +105,7 @@ To run the web app you can run this command
 python -m mkdocs serve
 ``
 
-# Compiling Web Files
+## Compiling Web Files
 
 To build webfiles you can run
 
