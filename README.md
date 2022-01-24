@@ -24,6 +24,7 @@ Change the following in buildblog.yml to your config
 
 Also enable GitHub Pages to `gh-pages` branch for you to host the website.
 
+![image](https://user-images.githubusercontent.com/45560312/150775748-a4c29f12-6b87-4b58-8622-39370fd39732.png)
 
 
 # Configuration
